@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Gigotda.nio - Recettes de Marie Romain</title>
+    <link>http://gigotda.nio.bzh/posts/</link>
+    <description>Recent content in Posts on Gigotda.nio - Recettes de Marie Romain</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>John Doe - All rights reserved</copyright>
+    <lastBuildDate>Sat, 12 Dec 2020 20:03:39 +0100</lastBuildDate><atom:link href="http://gigotda.nio.bzh/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://gigotda.nio.bzh/posts/my-first-post/</link>
+      <pubDate>Sat, 12 Dec 2020 20:03:39 +0100</pubDate>
+      
+      <guid>http://gigotda.nio.bzh/posts/my-first-post/</guid>
+      <description>ieeee</description>
+    </item>
+    
+  </channel>
+</rss>
